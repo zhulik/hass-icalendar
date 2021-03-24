@@ -1,0 +1,8 @@
+{
+  "domain": "icalendar",
+  "name": "iCalendar",
+  "documentation": "https://github.com/zhulik/hass-icalendar",
+  "requirements": ["icalendar==4.0.7", "aiohttp==3.7.1"],
+  "version": "0.1",
+  "codeowners": ["@zhulik"]
+}
