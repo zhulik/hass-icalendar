@@ -4,10 +4,11 @@ Simple and naive iCalendar integration for home-assistant.
 
 ## Features
 
-- Tested only with [PagerDuty](https://pagerduty.com) calendar feeds.
-- Utilizes the `calendar` platform.
+- Tested only with [PagerDuty](https://pagerduty.com) calendar feeds
+- Utilizes the `calendar` platform
 - Supports only one calendar because I don't need more
 - Does not cover any tricky edge cases that can be found in iCalendar files
+- Can be used as an example for your calendar integration
 
 ## Installation
 
